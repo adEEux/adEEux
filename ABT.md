@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adEEux
-- 👀 I’m interested in - Applying my knowlege in softwaer engineering to hardware
-- 🌱 I’m currently learning - Python, C, & C++
-- 💞️ I’m looking to collaborate on - TBD
-- 📫 How to reach me - TBD
+- 👀 I’m interested in - bitches 😎
+- 🌱 I’m currently learning - AP Rizz Courses
+- 💞️ I’m looking to collaborate on - the coding language of love
+- 📫 How to reach me - solo.to/adeeux
 
 <!---
 adEEux/adEEux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
